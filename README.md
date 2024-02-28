@@ -1,6 +1,6 @@
 # Parallel_Implementation_of_NTT
 
-Overview:
+# Overview:
 This repository contains the source codes for the parallel implementation of NTT on AI Engine. The procedure followed for the implementation is Daisuke Takahashi's "Six-Step NTT Algorithm".
 
 Step-1: In this step, we divide the 4096 elements in a 1024 X 4 matrix, meaning 1024 rows and 4 columns. We transpose the matrix resulting in a 4 X 1024 matrix, each row containing 1024 elements. For example, the first row would be (x0, x4, x8,.........,x4092).
