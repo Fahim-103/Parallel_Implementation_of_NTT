@@ -1,0 +1,4 @@
+aiesimulator
+--pkg-dir ./Work
+--aiearch-version aie
+--i=..
