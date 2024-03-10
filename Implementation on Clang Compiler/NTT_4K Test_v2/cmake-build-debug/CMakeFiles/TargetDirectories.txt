@@ -1,0 +1,3 @@
+/home/secure/CLionProjects/NTT_4K Test_v2/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/secure/CLionProjects/NTT_4K Test_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/secure/CLionProjects/NTT_4K Test_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
