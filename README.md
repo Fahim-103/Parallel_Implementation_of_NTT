@@ -27,5 +27,27 @@ As we are computing Radix-4 implementation of 1024-point NTT, we have five stage
 
 ![1024 Hierarchy](https://github.com/Fahim-103/Parallel_Implementation_of_NTT/assets/127331206/96c0f4dc-404e-4ec6-9fe5-f76e8937b5ad)
 
+## Running the code
+* **Create a new appliation project with VCK-190 ai-Engine.**
+
+![Screenshot from 2024-03-10 15-54-34](https://github.com/Fahim-103/Parallel_Implementation_of_NTT/assets/127331206/a7a5f2f6-f615-45de-a702-eff45e09fce4)
+
+![Screenshot from 2024-03-10 15-54-48](https://github.com/Fahim-103/Parallel_Implementation_of_NTT/assets/127331206/ce04a028-a25f-4cd5-929c-f76ca2274298)
+
+![Screenshot from 2024-03-10 15-54-59](https://github.com/Fahim-103/Parallel_Implementation_of_NTT/assets/127331206/081d92db-6067-443b-91c4-07aa747ba278)
+
+*  **Copy the data and src files from the repository in the project.**
+*  **Set "test.cpp" as the top level file.**
+
+![Screenshot from 2024-03-10 15-57-22](https://github.com/Fahim-103/Parallel_Implementation_of_NTT/assets/127331206/fe41d407-b1f3-4d18-8a30-b6981db591b0)
+
+* **Change the Stack size to 4096**
+
+![Screenshot from 2024-03-10 16-10-00](https://github.com/Fahim-103/Parallel_Implementation_of_NTT/assets/127331206/5bccd95a-d69e-4dc4-a220-85320fb04e51)
+
+* **Build and Run using AIE-Emulator**
+
+![Screenshot from 2024-03-10 15-57-41](https://github.com/Fahim-103/Parallel_Implementation_of_NTT/assets/127331206/9ffbb36e-e8a9-4f1a-b7ea-2b5dfef25ddb)
+
 
  
